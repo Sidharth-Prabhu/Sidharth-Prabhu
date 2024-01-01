@@ -7,7 +7,7 @@
 - 📫 How to reach me through this mail: mailtosidharth.me@gmail.com or my Instagram ID: sidharth_everett
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,androidstudio,bash,linux,raspberrypi,css,bots,firebase,visualstudio,vscode,github,gradle,idea,java,js,kotlin,maven,mysql,sqlite,netlify,powershell,ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,androidstudio,bash,linux,raspberrypi,html,css,bots,firebase,visualstudio,vscode,github,gradle,idea,java,js,kotlin,maven,mysql,sqlite,netlify,powershell,ps,pr,ae)](https://skillicons.dev)
 
 ## My Contributions
 <img alt="github-snake" src="github-user-contribution.svg" />
