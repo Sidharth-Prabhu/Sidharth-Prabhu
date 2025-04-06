@@ -16,7 +16,7 @@
 <img alt="github-snake" src="github-user-contribution.svg" />
 
 ## My Stats
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Zypher&show_icons=true&theme=dracula)
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharth-Prabhu&show_icons=true&theme=dracula)
 <!---
 Cyber-Zypher/Cyber-Zypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
