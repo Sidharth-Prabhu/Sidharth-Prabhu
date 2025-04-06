@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=500&width=435&lines=I+am+Sidharth+Prabhu!;I+am+an+Engineering+Student!;My+major+is+Artificial+Intelligence+%26+Data+Science;I+created+Frissco+Digital+Ventures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=500&color=61F700&width=435&lines=I+am+Sidharth+Prabhu!;I+am+an+Engineering+Student!;My+major+is+Artificial+Intelligence+%26+Data+Science;I+created+Frissco+Digital+Ventures)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Sidharth Prabhu
 - 👀 I’m interested in Ethical Hacking and Programming
