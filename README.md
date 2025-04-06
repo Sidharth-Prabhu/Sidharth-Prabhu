@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Sidharth Prabhu
 - 👀 I’m interested in Ethical Hacking and Programming
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking for ...
+- 💞️ I’m looking for internships...
 - 📫 How to reach me through this mail: mailtosidharth.me@gmail.com or my Instagram ID: @sidtheinsider
 
 ## My Company
