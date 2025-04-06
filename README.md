@@ -4,7 +4,7 @@
 - 👀 I’m interested in Ethical Hacking and Programming
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking for ...
-- 📫 How to reach me through this mail: mailtosidharth.me@gmail.com or my Instagram ID: sidharth_everett
+- 📫 How to reach me through this mail: mailtosidharth.me@gmail.com or my Instagram ID: @sidtheinsider
 
 ## My Company
 <img alt="frissco-creative-labs" src="https://github.com/Cyber-Zypher/Cyber-Zypher/blob/main/frissco%20groups.png?raw=true">
