@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking for internships...
 - 📫 How to reach me through this mail: mailtosidharth.me@gmail.com or my Instagram ID: @sidtheinsider
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SidharthPrabhu?theme=dark&font=Montserrat)
 
 ## My Company
 <img alt="frissco-creative-labs" src="https://github.com/Cyber-Zypher/Cyber-Zypher/blob/main/frissco%20groups.png?raw=true">
