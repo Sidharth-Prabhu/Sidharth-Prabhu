@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Sidharth+Prabhu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I+am+Sidharth+Prabhu)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Sidharth Prabhu
 - 👀 I’m interested in Ethical Hacking and Programming
