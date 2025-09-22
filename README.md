@@ -10,7 +10,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SidharthPrabhu?theme=dark&font=Montserrat)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,androidstudio,bash,linux,raspberrypi,html,css,bots,firebase,visualstudio,vscode,github,gradle,idea,java,js,kotlin,maven,mysql,sqlite,netlify,powershell,ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,androidstudio,flutter,nodejs,npm,bash,linux,raspberrypi,html,css,bots,firebase,visualstudio,vscode,github,gradle,idea,java,js,kotlin,maven,mysql,sqlite,netlify,powershell,ps,pr,ae)](https://skillicons.dev)
 
 ## My Contributions
 <img alt="github-snake" src="github-user-contribution.svg" />
